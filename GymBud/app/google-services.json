@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452792007537",
+    "project_id": "winnovatr-82ff9",
+    "storage_bucket": "winnovatr-82ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452792007537:android:aa098f51a48dc357b4d4d0",
+        "android_client_info": {
+          "package_name": "com.example.gymbud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452792007537-10kj43u014j4frqa44eai6h3cejfe66g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHn9r2OwTCzmzsofTPcxXyjp7gEo6uOpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452792007537-10kj43u014j4frqa44eai6h3cejfe66g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
